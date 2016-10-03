@@ -8,6 +8,6 @@ public clas Testepull{
     }
     
     public String teste(){
-        return "testeNovo";
+        return "testeNovoNovamente";
     }
 }
