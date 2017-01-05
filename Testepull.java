@@ -3,7 +3,7 @@ public clas Testepull{
     public Testepull(){
 
     	private String nome, novaString;
-    	private int idade;
+    	private int idade, nova idade;
     	private int numero;
 
     }
