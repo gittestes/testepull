@@ -8,7 +8,7 @@ public clas Testepull{
 
     }
     
-    public String teste(){
-        return "testeNovoNovamente";
+    public int teste(int value){
+        return value;
     }
 }
